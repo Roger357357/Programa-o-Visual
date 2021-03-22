@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Soma\Soma_Variaveis\Soma_Variaveis\bin\Debug\Soma_Variaveis.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Soma\Soma_Variaveis\Soma_Variaveis\bin\Debug\Soma_Variaveis.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Soma\Soma_Variaveis\Soma_Variaveis\bin\Debug\Soma_Variaveis.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Soma\Soma_Variaveis\Soma_Variaveis\obj\Debug\Soma_Variaveis.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Soma\Soma_Variaveis\Soma_Variaveis\obj\Debug\Soma_Variaveis.frmSoma.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Soma\Soma_Variaveis\Soma_Variaveis\obj\Debug\Soma_Variaveis.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Soma\Soma_Variaveis\Soma_Variaveis\obj\Debug\Soma_Variaveis.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Soma\Soma_Variaveis\Soma_Variaveis\obj\Debug\Soma_Variaveis.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Soma\Soma_Variaveis\Soma_Variaveis\obj\Debug\Soma_Variaveis.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Soma\Soma_Variaveis\Soma_Variaveis\obj\Debug\Soma_Variaveis.pdb

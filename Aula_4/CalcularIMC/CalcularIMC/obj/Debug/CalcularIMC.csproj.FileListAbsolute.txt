@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\CalcularIMC\CalcularIMC\bin\Debug\CalcularIMC.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.FrmCalculoIMC.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\CalcularIMC\CalcularIMC\obj\Debug\CalcularIMC.pdb

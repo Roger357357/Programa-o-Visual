@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\Operadores\Operadores\bin\Debug\Operadores.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\Operadores\Operadores\bin\Debug\Operadores.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\Operadores\Operadores\bin\Debug\Operadores.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\Operadores\Operadores\obj\Debug\Operadores.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\Operadores\Operadores\obj\Debug\Operadores.FrmOperadores.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\Operadores\Operadores\obj\Debug\Operadores.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\Operadores\Operadores\obj\Debug\Operadores.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\Operadores\Operadores\obj\Debug\Operadores.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\Operadores\Operadores\obj\Debug\Operadores.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_4\Operadores\Operadores\obj\Debug\Operadores.pdb

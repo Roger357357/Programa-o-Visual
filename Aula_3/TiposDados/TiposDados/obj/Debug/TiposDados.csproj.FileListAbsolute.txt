@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_3\TiposDados\TiposDados\bin\Debug\TiposDados.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_3\TiposDados\TiposDados\bin\Debug\TiposDados.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_3\TiposDados\TiposDados\bin\Debug\TiposDados.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_3\TiposDados\TiposDados\obj\Debug\TiposDados.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_3\TiposDados\TiposDados\obj\Debug\TiposDados.FrmTiposDados.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_3\TiposDados\TiposDados\obj\Debug\TiposDados.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_3\TiposDados\TiposDados\obj\Debug\TiposDados.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_3\TiposDados\TiposDados\obj\Debug\TiposDados.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_3\TiposDados\TiposDados\obj\Debug\TiposDados.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_3\TiposDados\TiposDados\obj\Debug\TiposDados.pdb
