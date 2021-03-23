@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_5\RodizioCarro\bin\Debug\RodizioCarro.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_5\RodizioCarro\bin\Debug\RodizioCarro.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_5\RodizioCarro\bin\Debug\RodizioCarro.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_5\RodizioCarro\obj\Debug\RodizioCarro.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_5\RodizioCarro\obj\Debug\RodizioCarro.frmRodizio.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_5\RodizioCarro\obj\Debug\RodizioCarro.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_5\RodizioCarro\obj\Debug\RodizioCarro.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_5\RodizioCarro\obj\Debug\RodizioCarro.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_5\RodizioCarro\obj\Debug\RodizioCarro.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_5\RodizioCarro\obj\Debug\RodizioCarro.pdb
