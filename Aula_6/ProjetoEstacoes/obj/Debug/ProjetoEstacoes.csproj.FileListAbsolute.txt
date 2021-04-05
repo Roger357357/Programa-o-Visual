@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoEstacoes\bin\Debug\ProjetoEstacoes.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoEstacoes\bin\Debug\ProjetoEstacoes.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoEstacoes\bin\Debug\ProjetoEstacoes.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoEstacoes\obj\Debug\ProjetoEstacoes.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoEstacoes\obj\Debug\ProjetoEstacoes.FrmCombo.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoEstacoes\obj\Debug\ProjetoEstacoes.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoEstacoes\obj\Debug\ProjetoEstacoes.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoEstacoes\obj\Debug\ProjetoEstacoes.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoEstacoes\obj\Debug\ProjetoEstacoes.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoEstacoes\obj\Debug\ProjetoEstacoes.pdb
