@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoDiaSemana\bin\Debug\ProjetoDiaSemana.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoDiaSemana\bin\Debug\ProjetoDiaSemana.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoDiaSemana\bin\Debug\ProjetoDiaSemana.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoDiaSemana\obj\Debug\ProjetoDiaSemana.FrmDiaSemana.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoDiaSemana\obj\Debug\ProjetoDiaSemana.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoDiaSemana\obj\Debug\ProjetoDiaSemana.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoDiaSemana\obj\Debug\ProjetoDiaSemana.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoDiaSemana\obj\Debug\ProjetoDiaSemana.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoDiaSemana\obj\Debug\ProjetoDiaSemana.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_6\ProjetoDiaSemana\obj\Debug\ProjetoDiaSemana.csprojAssemblyReference.cache
