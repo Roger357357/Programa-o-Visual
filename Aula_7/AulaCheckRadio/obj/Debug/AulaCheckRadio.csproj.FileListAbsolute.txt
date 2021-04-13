@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_7\AulaCheckRadio\bin\Debug\AulaCheckRadio.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_7\AulaCheckRadio\bin\Debug\AulaCheckRadio.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_7\AulaCheckRadio\bin\Debug\AulaCheckRadio.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_7\AulaCheckRadio\obj\Debug\AulaCheckRadio.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_7\AulaCheckRadio\obj\Debug\AulaCheckRadio.FrmCheckRadio.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_7\AulaCheckRadio\obj\Debug\AulaCheckRadio.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_7\AulaCheckRadio\obj\Debug\AulaCheckRadio.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_7\AulaCheckRadio\obj\Debug\AulaCheckRadio.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_7\AulaCheckRadio\obj\Debug\AulaCheckRadio.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_7\AulaCheckRadio\obj\Debug\AulaCheckRadio.pdb
