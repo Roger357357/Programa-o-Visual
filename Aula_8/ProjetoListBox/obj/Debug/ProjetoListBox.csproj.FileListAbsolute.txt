@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_8\ProjetoListBox\bin\Debug\ProjetoListBox.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_8\ProjetoListBox\bin\Debug\ProjetoListBox.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_8\ProjetoListBox\bin\Debug\ProjetoListBox.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_8\ProjetoListBox\obj\Debug\ProjetoListBox.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_8\ProjetoListBox\obj\Debug\ProjetoListBox.frmListBox.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_8\ProjetoListBox\obj\Debug\ProjetoListBox.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_8\ProjetoListBox\obj\Debug\ProjetoListBox.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_8\ProjetoListBox\obj\Debug\ProjetoListBox.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_8\ProjetoListBox\obj\Debug\ProjetoListBox.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_8\ProjetoListBox\obj\Debug\ProjetoListBox.pdb
