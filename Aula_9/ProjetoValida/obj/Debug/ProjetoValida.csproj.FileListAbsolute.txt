@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoValida\bin\Debug\ProjetoValida.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoValida\bin\Debug\ProjetoValida.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoValida\bin\Debug\ProjetoValida.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoValida\obj\Debug\ProjetoValida.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoValida\obj\Debug\ProjetoValida.frmValida.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoValida\obj\Debug\ProjetoValida.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoValida\obj\Debug\ProjetoValida.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoValida\obj\Debug\ProjetoValida.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoValida\obj\Debug\ProjetoValida.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoValida\obj\Debug\ProjetoValida.pdb

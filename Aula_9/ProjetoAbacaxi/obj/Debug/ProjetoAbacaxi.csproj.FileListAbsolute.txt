@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoAbacaxi\bin\Debug\ProjetoAbacaxi.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoAbacaxi\bin\Debug\ProjetoAbacaxi.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoAbacaxi\bin\Debug\ProjetoAbacaxi.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoAbacaxi\obj\Debug\ProjetoAbacaxi.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoAbacaxi\obj\Debug\ProjetoAbacaxi.frmAbacaxi.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoAbacaxi\obj\Debug\ProjetoAbacaxi.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoAbacaxi\obj\Debug\ProjetoAbacaxi.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoAbacaxi\obj\Debug\ProjetoAbacaxi.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoAbacaxi\obj\Debug\ProjetoAbacaxi.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_9\ProjetoAbacaxi\obj\Debug\ProjetoAbacaxi.pdb
