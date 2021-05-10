@@ -31,7 +31,7 @@ namespace ProjetoAbacaxi
         private void cmbFrutas_SelectedIndexChanged(object sender, EventArgs e)
         {
             cmbPrecos.SelectedIndex = cmbFrutas.SelectedIndex;
-            lstSelecionados.Items.Add(cmbFrutas.Text + " - " + cmbPrecos.Text + " - " + txtQuantidade.Text);
+            lstSelecionados.Items.Add(txtQuantidade.Text + "-" + cmbFrutas.Text + "-" + cmbPrecos.Text);
 
             double total = Convert.ToInt16(txtQuantidade.Text) * Convert.ToDouble(cmbPrecos.Text);
 
@@ -55,6 +55,29 @@ namespace ProjetoAbacaxi
                 txtQuantidade.Focus();
                 return;
             }
+        }
+
+        private void lstSelecionados_MouseClick(object sender, MouseEventArgs e)
+        {
+            int tamanhoString, pos1, pos2;
+            double quant,valor;
+            String itemSelecionado = lstSelecionados.Text;
+
+            lstSelecionados.Items.RemoveAt(lstSelecionados.SelectedIndex);
+            
+            lstSelecionados.Refresh();
+
+            tamanhoString = itemSelecionado.Length;
+
+            pos1 = itemSelecionado.IndexOf("-");
+            pos2 = itemSelecionado.LastIndexOf("-");
+
+            quant = double.Parse(itemSelecionado.Substring(0, pos1));
+            valor = double.Parse(itemSelecionado.Substring(pos2++, tamanhoString - (pos2 - 1)));
+
+            lblMensagem.Text = (double.Parse(lblMensagem.Text) - (quant * valor)).ToString();
+
+
         }
     }
 }

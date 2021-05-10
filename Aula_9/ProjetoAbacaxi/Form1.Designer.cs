@@ -64,6 +64,7 @@
             this.lstSelecionados.Name = "lstSelecionados";
             this.lstSelecionados.Size = new System.Drawing.Size(256, 284);
             this.lstSelecionados.TabIndex = 2;
+            this.lstSelecionados.MouseClick += new System.Windows.Forms.MouseEventHandler(this.lstSelecionados_MouseClick);
             // 
             // lblMensagem
             // 

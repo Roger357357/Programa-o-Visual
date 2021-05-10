@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_10\ProjetoIMC\bin\Debug\ProjetoIMC.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_10\ProjetoIMC\bin\Debug\ProjetoIMC.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_10\ProjetoIMC\bin\Debug\ProjetoIMC.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_10\ProjetoIMC\obj\Debug\ProjetoIMC.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_10\ProjetoIMC\obj\Debug\ProjetoIMC.frmCalculaImc.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_10\ProjetoIMC\obj\Debug\ProjetoIMC.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_10\ProjetoIMC\obj\Debug\ProjetoIMC.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_10\ProjetoIMC\obj\Debug\ProjetoIMC.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_10\ProjetoIMC\obj\Debug\ProjetoIMC.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_10\ProjetoIMC\obj\Debug\ProjetoIMC.pdb
