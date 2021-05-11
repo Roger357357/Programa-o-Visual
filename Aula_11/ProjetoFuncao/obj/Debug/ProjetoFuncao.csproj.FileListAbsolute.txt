@@ -1,0 +1,10 @@
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_11\ProjetoFuncao\bin\Debug\ProjetoFuncao.exe.config
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_11\ProjetoFuncao\bin\Debug\ProjetoFuncao.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_11\ProjetoFuncao\bin\Debug\ProjetoFuncao.pdb
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_11\ProjetoFuncao\obj\Debug\ProjetoFuncao.csprojAssemblyReference.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_11\ProjetoFuncao\obj\Debug\ProjetoFuncao.frmFuncao.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_11\ProjetoFuncao\obj\Debug\ProjetoFuncao.Properties.Resources.resources
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_11\ProjetoFuncao\obj\Debug\ProjetoFuncao.csproj.GenerateResource.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_11\ProjetoFuncao\obj\Debug\ProjetoFuncao.csproj.CoreCompileInputs.cache
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_11\ProjetoFuncao\obj\Debug\ProjetoFuncao.exe
+D:\Users\roger\OneDrive\Documentos\Uninove\8° Semestre\Programação Visual\Aula_11\ProjetoFuncao\obj\Debug\ProjetoFuncao.pdb
